@@ -1,0 +1,25 @@
+{
+  "name": "button-state",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@9.1.2",
+  "description": "Button states has never been clear",
+  "author": {
+    "email": "tjomas20@gmail.com",
+    "name": "Tunji Olakunle",
+    "url": "https://tunjiolakunle.co"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^3.12.2",
+    "vue": "^3.4.29",
+    "vue-router": "^4.3.3"
+  }
+}
